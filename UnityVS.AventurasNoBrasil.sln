@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.AventurasNoBrasil.CSharp.Plugins", "UnityVS.AventurasNoBrasil.CSharp.Plugins.csproj", "{0DA68DF6-0673-24AE-7CEC-D27937171FFE}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.AventurasNoBrasil.CSharp", "UnityVS.AventurasNoBrasil.CSharp.csproj", "{17BD83A9-1315-9CF7-843C-6086F3F014EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.AventurasNoBrasil.CSharp.Editor", "UnityVS.AventurasNoBrasil.CSharp.Editor.csproj", "{9F51D139-27CD-7139-6877-E0AC7E652638}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DA68DF6-0673-24AE-7CEC-D27937171FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA68DF6-0673-24AE-7CEC-D27937171FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA68DF6-0673-24AE-7CEC-D27937171FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA68DF6-0673-24AE-7CEC-D27937171FFE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{17BD83A9-1315-9CF7-843C-6086F3F014EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{17BD83A9-1315-9CF7-843C-6086F3F014EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17BD83A9-1315-9CF7-843C-6086F3F014EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17BD83A9-1315-9CF7-843C-6086F3F014EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F51D139-27CD-7139-6877-E0AC7E652638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F51D139-27CD-7139-6877-E0AC7E652638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F51D139-27CD-7139-6877-E0AC7E652638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F51D139-27CD-7139-6877-E0AC7E652638}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
