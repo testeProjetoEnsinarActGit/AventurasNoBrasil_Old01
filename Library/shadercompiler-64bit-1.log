@@ -1,69 +1,15 @@
 Base path: C:/Program Files/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-5304
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-16536
 Cmd: getPlatforms
-Cmd: preprocess
-  insize=4320 outsize=1045 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=3579 outsize=2281 kw=WATER_REFRACTIVE ok=1
+  api=4 type=0 insize=46630 outsize=4418 kw=DIRECTIONAL SHADOWS_OFF _TERRAIN_NORMAL_MAP ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=3579 outsize=2891 kw=WATER_REFRACTIVE ok=1
-Cmd: preprocess
-  insize=1060 outsize=1582 ok=1
+  api=4 type=1 insize=46630 outsize=8399 kw=DIRECTIONAL SHADOWS_OFF _TERRAIN_NORMAL_MAP ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=7217 outsize=3443 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+  api=4 type=0 insize=4059 outsize=2753 kw=DIRECTIONAL SHADOWS_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=7217 outsize=1769 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+  api=4 type=1 insize=4059 outsize=5434 kw=DIRECTIONAL SHADOWS_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=4094 outsize=2533 kw=POINT ok=1
+  api=4 type=0 insize=70500 outsize=5572 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _TERRAIN_NORMAL_MAP ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=4094 outsize=2379 kw=POINT ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=3349 outsize=2533 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=3349 outsize=697 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=6527 outsize=3971 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=6527 outsize=1891 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=6375 outsize=3581 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=6375 outsize=2103 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=3574 outsize=3216 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=3574 outsize=1843 kw= ok=1
-Cmd: preprocess
-  insize=13263 outsize=2671 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=10590 outsize=5393 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=10590 outsize=6157 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=10596 outsize=5003 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=10596 outsize=4743 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=10359 outsize=1989 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=10359 outsize=3329 kw= ok=1
-Cmd: preprocess
-  insize=12408 outsize=2547 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=9861 outsize=5044 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=9861 outsize=5263 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=9863 outsize=4751 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=9863 outsize=4475 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=9630 outsize=1948 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=9630 outsize=3329 kw= ok=1
-Cmd: preprocess
-  insize=1890 outsize=547 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1648 outsize=2200 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1648 outsize=2086 kw= ok=1
+  api=4 type=1 insize=70500 outsize=13478 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _TERRAIN_NORMAL_MAP ok=1

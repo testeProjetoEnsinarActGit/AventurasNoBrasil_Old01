@@ -3,14 +3,14 @@ using System.Collections;
 
 public class cenario : MonoBehaviour {
 
-    // Use this for initialization
+    
     public Transform action;
     public float smooth = 0.5f;
     private float velocidade = 0.5f;
-    // Use this for initialization
+    
     void Start()
     {
-
+        //Nada para iniciar
     }
 
     void Update()
