@@ -1,15 +1,15 @@
 Base path: C:/Program Files/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-16536
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-5216
 Cmd: getPlatforms
 Cmd: compileSnippet
-  api=4 type=0 insize=46630 outsize=4418 kw=DIRECTIONAL SHADOWS_OFF _TERRAIN_NORMAL_MAP ok=1
+  api=4 type=0 insize=10590 outsize=5393 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_SIMPLE WATER_EDGEBLEND_ON ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=46630 outsize=8399 kw=DIRECTIONAL SHADOWS_OFF _TERRAIN_NORMAL_MAP ok=1
+  api=4 type=1 insize=10590 outsize=5767 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_SIMPLE WATER_EDGEBLEND_ON ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=4059 outsize=2753 kw=DIRECTIONAL SHADOWS_OFF ok=1
+  api=4 type=0 insize=10590 outsize=2834 kw=WATER_VERTEX_DISPLACEMENT_OFF WATER_REFLECTIVE WATER_EDGEBLEND_ON ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=4059 outsize=5434 kw=DIRECTIONAL SHADOWS_OFF ok=1
+  api=4 type=1 insize=10590 outsize=6157 kw=WATER_VERTEX_DISPLACEMENT_OFF WATER_REFLECTIVE WATER_EDGEBLEND_ON ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=70500 outsize=5572 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _TERRAIN_NORMAL_MAP ok=1
+  api=4 type=0 insize=10590 outsize=5393 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_REFLECTIVE WATER_EDGEBLEND_OFF ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=70500 outsize=13478 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _TERRAIN_NORMAL_MAP ok=1
+  api=4 type=1 insize=10590 outsize=5011 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_REFLECTIVE WATER_EDGEBLEND_OFF ok=1
