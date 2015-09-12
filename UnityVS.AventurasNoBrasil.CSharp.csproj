@@ -73,6 +73,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\cenario.cs" />
+    <Compile Include="Assets\Script\ondas.cs" />
     <Compile Include="Assets\Script\player.cs" />
   </ItemGroup>
   <ItemGroup>
