@@ -33,8 +33,14 @@ public class player : MonoBehaviour
 
         if (Input.GetAxisRaw("Vertical") < 0)
         {
-            // transform.Translate(Vector3.back * 15 * Time.deltaTime);
+            //transform.Translate(Vector3.back * 15 * Time.deltaTime);
             //transform.localEulerAngles = new Vector3(0, 0, 0);
+        }
+
+        if (Input.GetAxisRaw("Jump") > 0)
+        {
+            transform.Translate(Vector3.up * 15 * Time.deltaTime);
+            transform.localEulerAngles = new Vector3(0, 0, 0);
         }
     }
 
