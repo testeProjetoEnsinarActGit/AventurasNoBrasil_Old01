@@ -1,0 +1,11 @@
+worktrees/
+graphify-out/cache/
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userprefs
+packages/
+*.nupkg
+TestResults/

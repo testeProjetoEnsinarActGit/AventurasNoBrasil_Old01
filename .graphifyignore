@@ -1,0 +1,39 @@
+# Claude Code — nunca commitar segredos
+.claude/settings.local.json
+
+# MCP / ambiente — segredos locais
+.mcp.json
+.env
+
+# Worktrees
+.worktrees/
+.worktree
+worktrees/
+
+# Memória gerada localmente
+.pi_memory.md
+
+# IDE e sistema operacional
+.vscode/
+**/.vs/
+**/.vscode/
+**/.idea/
+**/.DS_Store
+**/Thumbs.db
+
+# Build, dependências e caches
+**/obj/
+**/bin/
+**/node_modules/
+**/.venv/
+**/venv/
+**/dist/
+**/coverage/
+**/CoverageReport/
+**/CoverageReport-Application/
+**/backups/
+**/logs/
+**/.cr/
+**/*.lscache
+**/__pycache__/
+graphify-out/
